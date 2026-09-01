@@ -19,7 +19,7 @@ const out = join(root, "brand/banner.jpg");
 const browser = await chromium.launch({ headless: true });
 const page = await browser.newPage({
   viewport: { width: 1280, height: 640 },
-  deviceScaleFactor: 2,
+  deviceScaleFactor: 1,
 });
 await page.goto(html, { waitUntil: "networkidle" });
 await page.evaluate(() => document.fonts.ready);
