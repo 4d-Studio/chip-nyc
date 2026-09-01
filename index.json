@@ -1,0 +1,2794 @@
+{
+  "source": "https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j",
+  "note": "Hidden plant list. Not a live Chip menu. Not DoorDash.",
+  "at": 1788271281091,
+  "n": 30901,
+  "zips": [
+    {
+      "zip": "10001",
+      "boro": "Manhattan",
+      "n": 798,
+      "bag": {
+        "yes": 489,
+        "unknown": 165,
+        "maybe": 138,
+        "no": 6
+      },
+      "lat": 40.74939,
+      "lng": -73.99283
+    },
+    {
+      "zip": "10002",
+      "boro": "Manhattan",
+      "n": 636,
+      "bag": {
+        "yes": 443,
+        "unknown": 99,
+        "maybe": 93,
+        "no": 1
+      },
+      "lat": 40.71825,
+      "lng": -73.98989
+    },
+    {
+      "zip": "10003",
+      "boro": "Manhattan",
+      "n": 814,
+      "bag": {
+        "yes": 532,
+        "no": 10,
+        "maybe": 119,
+        "unknown": 153
+      },
+      "lat": 40.73146,
+      "lng": -73.98897
+    },
+    {
+      "zip": "10004",
+      "boro": "Manhattan",
+      "n": 179,
+      "bag": {
+        "yes": 99,
+        "unknown": 51,
+        "maybe": 29
+      },
+      "lat": 40.70337,
+      "lng": -74.01213
+    },
+    {
+      "zip": "10005",
+      "boro": "Manhattan",
+      "n": 73,
+      "bag": {
+        "unknown": 18,
+        "yes": 42,
+        "maybe": 13
+      },
+      "lat": 40.70623,
+      "lng": -74.00868
+    },
+    {
+      "zip": "10006",
+      "boro": "Manhattan",
+      "n": 61,
+      "bag": {
+        "unknown": 15,
+        "yes": 37,
+        "maybe": 9
+      },
+      "lat": 40.70815,
+      "lng": -74.01313
+    },
+    {
+      "zip": "10007",
+      "boro": "Manhattan",
+      "n": 158,
+      "bag": {
+        "maybe": 39,
+        "yes": 101,
+        "unknown": 18
+      },
+      "lat": 40.71333,
+      "lng": -74.00975
+    },
+    {
+      "zip": "10009",
+      "boro": "Manhattan",
+      "n": 366,
+      "bag": {
+        "yes": 262,
+        "unknown": 56,
+        "maybe": 44,
+        "no": 4
+      },
+      "lat": 40.72647,
+      "lng": -73.98255
+    },
+    {
+      "zip": "10010",
+      "boro": "Manhattan",
+      "n": 286,
+      "bag": {
+        "unknown": 44,
+        "yes": 199,
+        "maybe": 43
+      },
+      "lat": 40.7406,
+      "lng": -73.98686
+    },
+    {
+      "zip": "10011",
+      "boro": "Manhattan",
+      "n": 530,
+      "bag": {
+        "yes": 336,
+        "maybe": 93,
+        "unknown": 99,
+        "no": 2
+      },
+      "lat": 40.74071,
+      "lng": -73.99983
+    },
+    {
+      "zip": "10012",
+      "boro": "Manhattan",
+      "n": 509,
+      "bag": {
+        "yes": 330,
+        "maybe": 117,
+        "no": 3,
+        "unknown": 59
+      },
+      "lat": 40.72603,
+      "lng": -73.9983
+    },
+    {
+      "zip": "10013",
+      "boro": "Manhattan",
+      "n": 583,
+      "bag": {
+        "yes": 389,
+        "unknown": 91,
+        "maybe": 102,
+        "no": 1
+      },
+      "lat": 40.71889,
+      "lng": -74.00195
+    },
+    {
+      "zip": "10014",
+      "boro": "Manhattan",
+      "n": 514,
+      "bag": {
+        "yes": 352,
+        "maybe": 80,
+        "unknown": 81,
+        "no": 1
+      },
+      "lat": 40.73355,
+      "lng": -74.00437
+    },
+    {
+      "zip": "10016",
+      "boro": "Manhattan",
+      "n": 458,
+      "bag": {
+        "unknown": 50,
+        "maybe": 75,
+        "yes": 329,
+        "no": 4
+      },
+      "lat": 40.74571,
+      "lng": -73.98079
+    },
+    {
+      "zip": "10017",
+      "boro": "Manhattan",
+      "n": 388,
+      "bag": {
+        "yes": 267,
+        "unknown": 47,
+        "maybe": 74
+      },
+      "lat": 40.75317,
+      "lng": -73.97532
+    },
+    {
+      "zip": "10018",
+      "boro": "Manhattan",
+      "n": 493,
+      "bag": {
+        "yes": 338,
+        "maybe": 83,
+        "unknown": 71,
+        "no": 1
+      },
+      "lat": 40.75349,
+      "lng": -73.98863
+    },
+    {
+      "zip": "10019",
+      "boro": "Manhattan",
+      "n": 682,
+      "bag": {
+        "yes": 529,
+        "maybe": 86,
+        "unknown": 64,
+        "no": 3
+      },
+      "lat": 40.76422,
+      "lng": -73.98338
+    },
+    {
+      "zip": "10020",
+      "boro": "Manhattan",
+      "n": 58,
+      "bag": {
+        "yes": 35,
+        "unknown": 12,
+        "maybe": 11
+      },
+      "lat": 40.75955,
+      "lng": -73.98001
+    },
+    {
+      "zip": "10021",
+      "boro": "Manhattan",
+      "n": 190,
+      "bag": {
+        "yes": 130,
+        "maybe": 40,
+        "unknown": 20
+      },
+      "lat": 40.76926,
+      "lng": -73.95846
+    },
+    {
+      "zip": "10022",
+      "boro": "Manhattan",
+      "n": 491,
+      "bag": {
+        "unknown": 64,
+        "yes": 357,
+        "maybe": 68,
+        "no": 2
+      },
+      "lat": 40.75875,
+      "lng": -73.9697
+    },
+    {
+      "zip": "10023",
+      "boro": "Manhattan",
+      "n": 242,
+      "bag": {
+        "maybe": 49,
+        "yes": 160,
+        "unknown": 33
+      },
+      "lat": 40.77635,
+      "lng": -73.98124
+    },
+    {
+      "zip": "10024",
+      "boro": "Manhattan",
+      "n": 231,
+      "bag": {
+        "yes": 156,
+        "maybe": 50,
+        "no": 2,
+        "unknown": 23
+      },
+      "lat": 40.78536,
+      "lng": -73.97605
+    },
+    {
+      "zip": "10025",
+      "boro": "Manhattan",
+      "n": 270,
+      "bag": {
+        "yes": 190,
+        "unknown": 29,
+        "maybe": 51
+      },
+      "lat": 40.79901,
+      "lng": -73.96723
+    },
+    {
+      "zip": "10026",
+      "boro": "Manhattan",
+      "n": 59,
+      "bag": {
+        "yes": 40,
+        "maybe": 14,
+        "unknown": 5
+      },
+      "lat": 40.80254,
+      "lng": -73.95248
+    },
+    {
+      "zip": "10027",
+      "boro": "Manhattan",
+      "n": 181,
+      "bag": {
+        "maybe": 28,
+        "yes": 126,
+        "no": 1,
+        "unknown": 26
+      },
+      "lat": 40.81079,
+      "lng": -73.95311
+    },
+    {
+      "zip": "10028",
+      "boro": "Manhattan",
+      "n": 217,
+      "bag": {
+        "yes": 145,
+        "unknown": 20,
+        "maybe": 52
+      },
+      "lat": 40.7766,
+      "lng": -73.95392
+    },
+    {
+      "zip": "10029",
+      "boro": "Manhattan",
+      "n": 237,
+      "bag": {
+        "maybe": 40,
+        "yes": 168,
+        "unknown": 29
+      },
+      "lat": 40.79274,
+      "lng": -73.94435
+    },
+    {
+      "zip": "10030",
+      "boro": "Manhattan",
+      "n": 22,
+      "bag": {
+        "yes": 16,
+        "maybe": 6
+      },
+      "lat": 40.8188,
+      "lng": -73.9434
+    },
+    {
+      "zip": "10031",
+      "boro": "Manhattan",
+      "n": 138,
+      "bag": {
+        "maybe": 23,
+        "yes": 102,
+        "unknown": 12,
+        "no": 1
+      },
+      "lat": 40.82459,
+      "lng": -73.94963
+    },
+    {
+      "zip": "10032",
+      "boro": "Manhattan",
+      "n": 133,
+      "bag": {
+        "unknown": 18,
+        "maybe": 23,
+        "yes": 92
+      },
+      "lat": 40.83834,
+      "lng": -73.94058
+    },
+    {
+      "zip": "10033",
+      "boro": "Manhattan",
+      "n": 151,
+      "bag": {
+        "yes": 99,
+        "maybe": 26,
+        "unknown": 26
+      },
+      "lat": 40.84959,
+      "lng": -73.93529
+    },
+    {
+      "zip": "10034",
+      "boro": "Manhattan",
+      "n": 125,
+      "bag": {
+        "yes": 94,
+        "unknown": 16,
+        "maybe": 15
+      },
+      "lat": 40.86616,
+      "lng": -73.92108
+    },
+    {
+      "zip": "10035",
+      "boro": "Manhattan",
+      "n": 100,
+      "bag": {
+        "yes": 66,
+        "unknown": 20,
+        "maybe": 14
+      },
+      "lat": 40.8004,
+      "lng": -73.93674
+    },
+    {
+      "zip": "10036",
+      "boro": "Manhattan",
+      "n": 752,
+      "bag": {
+        "yes": 507,
+        "unknown": 151,
+        "maybe": 85,
+        "no": 9
+      },
+      "lat": 40.75806,
+      "lng": -73.98658
+    },
+    {
+      "zip": "10037",
+      "boro": "Manhattan",
+      "n": 28,
+      "bag": {
+        "yes": 25,
+        "maybe": 1,
+        "unknown": 2
+      },
+      "lat": 40.81463,
+      "lng": -73.93961
+    },
+    {
+      "zip": "10038",
+      "boro": "Manhattan",
+      "n": 201,
+      "bag": {
+        "unknown": 21,
+        "yes": 139,
+        "maybe": 40,
+        "no": 1
+      },
+      "lat": 40.7091,
+      "lng": -74.00567
+    },
+    {
+      "zip": "10039",
+      "boro": "Manhattan",
+      "n": 22,
+      "bag": {
+        "yes": 15,
+        "maybe": 4,
+        "unknown": 3
+      },
+      "lat": 40.82394,
+      "lng": -73.93922
+    },
+    {
+      "zip": "10040",
+      "boro": "Manhattan",
+      "n": 93,
+      "bag": {
+        "unknown": 18,
+        "yes": 62,
+        "maybe": 13
+      },
+      "lat": 40.85956,
+      "lng": -73.92819
+    },
+    {
+      "zip": "10041",
+      "boro": "Manhattan",
+      "n": 6,
+      "bag": {
+        "unknown": 3,
+        "yes": 3
+      },
+      "lat": 40.70359,
+      "lng": -74.00978
+    },
+    {
+      "zip": "10044",
+      "boro": "Manhattan",
+      "n": 17,
+      "bag": {
+        "yes": 13,
+        "maybe": 2,
+        "unknown": 2
+      },
+      "lat": 40.76075,
+      "lng": -73.95077
+    },
+    {
+      "zip": "10048",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "unknown": 2
+      },
+      "lat": 40.71082,
+      "lng": -74.01108
+    },
+    {
+      "zip": "10055",
+      "boro": "Manhattan",
+      "n": 3,
+      "bag": {
+        "yes": 2,
+        "unknown": 1
+      },
+      "lat": 40.75882,
+      "lng": -73.97398
+    },
+    {
+      "zip": "10065",
+      "boro": "Manhattan",
+      "n": 187,
+      "bag": {
+        "yes": 136,
+        "unknown": 19,
+        "maybe": 32
+      },
+      "lat": 40.76439,
+      "lng": -73.96371
+    },
+    {
+      "zip": "10069",
+      "boro": "Manhattan",
+      "n": 3,
+      "bag": {
+        "maybe": 1,
+        "unknown": 1,
+        "yes": 1
+      },
+      "lat": 40.77701,
+      "lng": -73.98881
+    },
+    {
+      "zip": "10075",
+      "boro": "Manhattan",
+      "n": 106,
+      "bag": {
+        "maybe": 20,
+        "yes": 72,
+        "unknown": 14
+      },
+      "lat": 40.77294,
+      "lng": -73.95666
+    },
+    {
+      "zip": "10080",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.71056,
+      "lng": -74.01168
+    },
+    {
+      "zip": "10103",
+      "boro": "Manhattan",
+      "n": 12,
+      "bag": {
+        "unknown": 8,
+        "maybe": 3,
+        "yes": 1
+      },
+      "lat": 40.76024,
+      "lng": -73.97675
+    },
+    {
+      "zip": "10105",
+      "boro": "Manhattan",
+      "n": 6,
+      "bag": {
+        "maybe": 1,
+        "unknown": 1,
+        "yes": 4
+      },
+      "lat": 40.76146,
+      "lng": -73.97986
+    },
+    {
+      "zip": "10106",
+      "boro": "Manhattan",
+      "n": 3,
+      "bag": {
+        "yes": 3
+      },
+      "lat": 40.76514,
+      "lng": -73.98032
+    },
+    {
+      "zip": "10107",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "maybe": 1
+      },
+      "lat": 40.76638,
+      "lng": -73.98212
+    },
+    {
+      "zip": "10110",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "maybe": 1,
+        "unknown": 1
+      },
+      "lat": 40.75354,
+      "lng": -73.98086
+    },
+    {
+      "zip": "10111",
+      "boro": "Manhattan",
+      "n": 7,
+      "bag": {
+        "maybe": 2,
+        "yes": 4,
+        "unknown": 1
+      },
+      "lat": 40.75921,
+      "lng": -73.97821
+    },
+    {
+      "zip": "10112",
+      "boro": "Manhattan",
+      "n": 33,
+      "bag": {
+        "maybe": 11,
+        "yes": 17,
+        "unknown": 5
+      },
+      "lat": 40.75875,
+      "lng": -73.97869
+    },
+    {
+      "zip": "10115",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.81109,
+      "lng": -73.96417
+    },
+    {
+      "zip": "10116",
+      "boro": "0",
+      "n": 4,
+      "bag": {
+        "yes": 4
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "10118",
+      "boro": "Manhattan",
+      "n": 10,
+      "bag": {
+        "yes": 6,
+        "maybe": 2,
+        "unknown": 2
+      },
+      "lat": 40.74825,
+      "lng": -73.98481
+    },
+    {
+      "zip": "10119",
+      "boro": "Manhattan",
+      "n": 33,
+      "bag": {
+        "maybe": 10,
+        "yes": 18,
+        "unknown": 5
+      },
+      "lat": 40.7532,
+      "lng": -73.9901
+    },
+    {
+      "zip": "10121",
+      "boro": "Manhattan",
+      "n": 95,
+      "bag": {
+        "yes": 78,
+        "unknown": 9,
+        "no": 2,
+        "maybe": 6
+      },
+      "lat": 40.75052,
+      "lng": -73.99183
+    },
+    {
+      "zip": "10122",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": 40.75148,
+      "lng": -73.99176
+    },
+    {
+      "zip": "10123",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "yes": 2
+      },
+      "lat": 40.75152,
+      "lng": -73.99024
+    },
+    {
+      "zip": "10128",
+      "boro": "Manhattan",
+      "n": 166,
+      "bag": {
+        "yes": 118,
+        "unknown": 17,
+        "no": 1,
+        "maybe": 30
+      },
+      "lat": 40.78148,
+      "lng": -73.95115
+    },
+    {
+      "zip": "10150",
+      "boro": "0",
+      "n": 1,
+      "bag": {
+        "maybe": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "10151",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.76332,
+      "lng": -73.97369
+    },
+    {
+      "zip": "10152",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.75878,
+      "lng": -73.9728
+    },
+    {
+      "zip": "10153",
+      "boro": "Manhattan",
+      "n": 4,
+      "bag": {
+        "yes": 3,
+        "unknown": 1
+      },
+      "lat": 40.76401,
+      "lng": -73.97319
+    },
+    {
+      "zip": "10154",
+      "boro": "Manhattan",
+      "n": 4,
+      "bag": {
+        "unknown": 1,
+        "yes": 3
+      },
+      "lat": 40.75816,
+      "lng": -73.97325
+    },
+    {
+      "zip": "10155",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.7614,
+      "lng": -73.96819
+    },
+    {
+      "zip": "10158",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "maybe": 1,
+        "yes": 1
+      },
+      "lat": 40.74907,
+      "lng": -73.97568
+    },
+    {
+      "zip": "10163",
+      "boro": "0",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "10165",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "yes": 1,
+        "maybe": 1
+      },
+      "lat": 40.75253,
+      "lng": -73.97866
+    },
+    {
+      "zip": "10167",
+      "boro": "Manhattan",
+      "n": 7,
+      "bag": {
+        "unknown": 3,
+        "yes": 4
+      },
+      "lat": 40.75482,
+      "lng": -73.97568
+    },
+    {
+      "zip": "10168",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "maybe": 1,
+        "yes": 1
+      },
+      "lat": 40.75159,
+      "lng": -73.97645
+    },
+    {
+      "zip": "10169",
+      "boro": "Manhattan",
+      "n": 22,
+      "bag": {
+        "yes": 12,
+        "maybe": 3,
+        "unknown": 7
+      },
+      "lat": 40.7545,
+      "lng": -73.97595
+    },
+    {
+      "zip": "10170",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": 40.75226,
+      "lng": -73.97546
+    },
+    {
+      "zip": "10171",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "yes": 1,
+        "maybe": 1
+      },
+      "lat": 40.75645,
+      "lng": -73.9745
+    },
+    {
+      "zip": "10172",
+      "boro": "Manhattan",
+      "n": 3,
+      "bag": {
+        "yes": 2,
+        "maybe": 1
+      },
+      "lat": 40.75556,
+      "lng": -73.97514
+    },
+    {
+      "zip": "10173",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "maybe": 1
+      },
+      "lat": 40.75386,
+      "lng": -73.97851
+    },
+    {
+      "zip": "10174",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "maybe": 1
+      },
+      "lat": 40.75182,
+      "lng": -73.97576
+    },
+    {
+      "zip": "10176",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.75561,
+      "lng": -73.97932
+    },
+    {
+      "zip": "10177",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.75501,
+      "lng": -73.97557
+    },
+    {
+      "zip": "10178",
+      "boro": "Manhattan",
+      "n": 5,
+      "bag": {
+        "unknown": 1,
+        "yes": 4
+      },
+      "lat": 40.75099,
+      "lng": -73.97849
+    },
+    {
+      "zip": "10179",
+      "boro": "Manhattan",
+      "n": 2,
+      "bag": {
+        "unknown": 2
+      },
+      "lat": 40.75585,
+      "lng": -73.97704
+    },
+    {
+      "zip": "10271",
+      "boro": "Manhattan",
+      "n": 4,
+      "bag": {
+        "yes": 3,
+        "maybe": 1
+      },
+      "lat": 40.70854,
+      "lng": -74.01104
+    },
+    {
+      "zip": "10279",
+      "boro": "Manhattan",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": 40.71226,
+      "lng": -74.00789
+    },
+    {
+      "zip": "10280",
+      "boro": "Manhattan",
+      "n": 25,
+      "bag": {
+        "yes": 19,
+        "maybe": 6
+      },
+      "lat": 40.71106,
+      "lng": -74.01591
+    },
+    {
+      "zip": "10281",
+      "boro": "Manhattan",
+      "n": 18,
+      "bag": {
+        "yes": 14,
+        "maybe": 4
+      },
+      "lat": 40.71398,
+      "lng": -74.01559
+    },
+    {
+      "zip": "10282",
+      "boro": "Manhattan",
+      "n": 20,
+      "bag": {
+        "maybe": 2,
+        "yes": 13,
+        "unknown": 5
+      },
+      "lat": 40.71503,
+      "lng": -74.01537
+    },
+    {
+      "zip": "10301",
+      "boro": "Staten Island",
+      "n": 121,
+      "bag": {
+        "yes": 78,
+        "unknown": 27,
+        "maybe": 16
+      },
+      "lat": 40.63613,
+      "lng": -74.08504
+    },
+    {
+      "zip": "10302",
+      "boro": "Staten Island",
+      "n": 79,
+      "bag": {
+        "yes": 62,
+        "maybe": 7,
+        "unknown": 10
+      },
+      "lat": 40.62998,
+      "lng": -74.13641
+    },
+    {
+      "zip": "10303",
+      "boro": "Staten Island",
+      "n": 46,
+      "bag": {
+        "yes": 36,
+        "unknown": 7,
+        "maybe": 3
+      },
+      "lat": 40.62726,
+      "lng": -74.15949
+    },
+    {
+      "zip": "10304",
+      "boro": "Staten Island",
+      "n": 59,
+      "bag": {
+        "yes": 45,
+        "no": 1,
+        "maybe": 7,
+        "unknown": 6
+      },
+      "lat": 40.61449,
+      "lng": -74.08519
+    },
+    {
+      "zip": "10305",
+      "boro": "Staten Island",
+      "n": 104,
+      "bag": {
+        "yes": 74,
+        "maybe": 16,
+        "unknown": 14
+      },
+      "lat": 40.59918,
+      "lng": -74.07889
+    },
+    {
+      "zip": "10306",
+      "boro": "Staten Island",
+      "n": 154,
+      "bag": {
+        "unknown": 15,
+        "yes": 107,
+        "maybe": 32
+      },
+      "lat": 40.57197,
+      "lng": -74.11329
+    },
+    {
+      "zip": "10307",
+      "boro": "Staten Island",
+      "n": 36,
+      "bag": {
+        "yes": 23,
+        "maybe": 7,
+        "unknown": 6
+      },
+      "lat": 40.51339,
+      "lng": -74.23979
+    },
+    {
+      "zip": "10308",
+      "boro": "Staten Island",
+      "n": 54,
+      "bag": {
+        "yes": 37,
+        "maybe": 7,
+        "unknown": 9,
+        "no": 1
+      },
+      "lat": 40.54845,
+      "lng": -74.15043
+    },
+    {
+      "zip": "10309",
+      "boro": "Staten Island",
+      "n": 93,
+      "bag": {
+        "unknown": 15,
+        "yes": 53,
+        "maybe": 25
+      },
+      "lat": 40.53026,
+      "lng": -74.22459
+    },
+    {
+      "zip": "10310",
+      "boro": "Staten Island",
+      "n": 71,
+      "bag": {
+        "yes": 48,
+        "maybe": 13,
+        "unknown": 10
+      },
+      "lat": 40.63125,
+      "lng": -74.11679
+    },
+    {
+      "zip": "10312",
+      "boro": "Staten Island",
+      "n": 86,
+      "bag": {
+        "unknown": 8,
+        "maybe": 16,
+        "yes": 62
+      },
+      "lat": 40.54589,
+      "lng": -74.17496
+    },
+    {
+      "zip": "10314",
+      "boro": "Staten Island",
+      "n": 205,
+      "bag": {
+        "yes": 147,
+        "unknown": 14,
+        "maybe": 44
+      },
+      "lat": 40.60086,
+      "lng": -74.15378
+    },
+    {
+      "zip": "10451",
+      "boro": "Bronx",
+      "n": 188,
+      "bag": {
+        "yes": 150,
+        "unknown": 18,
+        "maybe": 19,
+        "no": 1
+      },
+      "lat": 40.82312,
+      "lng": -73.92381
+    },
+    {
+      "zip": "10452",
+      "boro": "Bronx",
+      "n": 113,
+      "bag": {
+        "maybe": 9,
+        "yes": 90,
+        "unknown": 13,
+        "no": 1
+      },
+      "lat": 40.83859,
+      "lng": -73.9202
+    },
+    {
+      "zip": "10453",
+      "boro": "Bronx",
+      "n": 112,
+      "bag": {
+        "yes": 81,
+        "unknown": 18,
+        "maybe": 13
+      },
+      "lat": 40.85346,
+      "lng": -73.90877
+    },
+    {
+      "zip": "10454",
+      "boro": "Bronx",
+      "n": 94,
+      "bag": {
+        "yes": 76,
+        "maybe": 9,
+        "unknown": 8,
+        "no": 1
+      },
+      "lat": 40.80772,
+      "lng": -73.92091
+    },
+    {
+      "zip": "10455",
+      "boro": "Bronx",
+      "n": 109,
+      "bag": {
+        "yes": 87,
+        "unknown": 8,
+        "maybe": 13,
+        "no": 1
+      },
+      "lat": 40.81539,
+      "lng": -73.91166
+    },
+    {
+      "zip": "10456",
+      "boro": "Bronx",
+      "n": 78,
+      "bag": {
+        "yes": 63,
+        "unknown": 10,
+        "maybe": 5
+      },
+      "lat": 40.83271,
+      "lng": -73.91007
+    },
+    {
+      "zip": "10457",
+      "boro": "Bronx",
+      "n": 93,
+      "bag": {
+        "yes": 76,
+        "unknown": 12,
+        "maybe": 5
+      },
+      "lat": 40.84792,
+      "lng": -73.89842
+    },
+    {
+      "zip": "10458",
+      "boro": "Bronx",
+      "n": 234,
+      "bag": {
+        "unknown": 32,
+        "yes": 171,
+        "maybe": 30,
+        "no": 1
+      },
+      "lat": 40.85921,
+      "lng": -73.88945
+    },
+    {
+      "zip": "10459",
+      "boro": "Bronx",
+      "n": 85,
+      "bag": {
+        "yes": 64,
+        "maybe": 12,
+        "unknown": 9
+      },
+      "lat": 40.82312,
+      "lng": -73.89455
+    },
+    {
+      "zip": "10460",
+      "boro": "Bronx",
+      "n": 75,
+      "bag": {
+        "yes": 55,
+        "maybe": 11,
+        "unknown": 9
+      },
+      "lat": 40.84183,
+      "lng": -73.88092
+    },
+    {
+      "zip": "10461",
+      "boro": "Bronx",
+      "n": 170,
+      "bag": {
+        "yes": 118,
+        "unknown": 17,
+        "maybe": 31,
+        "no": 4
+      },
+      "lat": 40.84556,
+      "lng": -73.84172
+    },
+    {
+      "zip": "10462",
+      "boro": "Bronx",
+      "n": 175,
+      "bag": {
+        "yes": 130,
+        "unknown": 16,
+        "maybe": 29
+      },
+      "lat": 40.8409,
+      "lng": -73.85904
+    },
+    {
+      "zip": "10463",
+      "boro": "Bronx",
+      "n": 134,
+      "bag": {
+        "yes": 104,
+        "maybe": 21,
+        "unknown": 9
+      },
+      "lat": 40.88154,
+      "lng": -73.90563
+    },
+    {
+      "zip": "10464",
+      "boro": "Bronx",
+      "n": 39,
+      "bag": {
+        "yes": 32,
+        "maybe": 2,
+        "unknown": 5
+      },
+      "lat": 40.84992,
+      "lng": -73.78944
+    },
+    {
+      "zip": "10465",
+      "boro": "Bronx",
+      "n": 95,
+      "bag": {
+        "yes": 70,
+        "maybe": 17,
+        "unknown": 8
+      },
+      "lat": 40.82634,
+      "lng": -73.82262
+    },
+    {
+      "zip": "10466",
+      "boro": "Bronx",
+      "n": 84,
+      "bag": {
+        "yes": 71,
+        "maybe": 9,
+        "unknown": 4
+      },
+      "lat": 40.89102,
+      "lng": -73.85058
+    },
+    {
+      "zip": "10467",
+      "boro": "Bronx",
+      "n": 172,
+      "bag": {
+        "yes": 138,
+        "unknown": 14,
+        "maybe": 20
+      },
+      "lat": 40.87443,
+      "lng": -73.87194
+    },
+    {
+      "zip": "10468",
+      "boro": "Bronx",
+      "n": 113,
+      "bag": {
+        "yes": 81,
+        "unknown": 10,
+        "maybe": 21,
+        "no": 1
+      },
+      "lat": 40.86627,
+      "lng": -73.8984
+    },
+    {
+      "zip": "10469",
+      "boro": "Bronx",
+      "n": 95,
+      "bag": {
+        "yes": 74,
+        "maybe": 13,
+        "unknown": 8
+      },
+      "lat": 40.87171,
+      "lng": -73.84865
+    },
+    {
+      "zip": "10470",
+      "boro": "Bronx",
+      "n": 44,
+      "bag": {
+        "yes": 38,
+        "maybe": 4,
+        "unknown": 2
+      },
+      "lat": 40.90038,
+      "lng": -73.86001
+    },
+    {
+      "zip": "10471",
+      "boro": "Bronx",
+      "n": 53,
+      "bag": {
+        "yes": 41,
+        "maybe": 8,
+        "unknown": 3,
+        "no": 1
+      },
+      "lat": 40.90214,
+      "lng": -73.90156
+    },
+    {
+      "zip": "10472",
+      "boro": "Bronx",
+      "n": 110,
+      "bag": {
+        "maybe": 16,
+        "yes": 87,
+        "unknown": 6,
+        "no": 1
+      },
+      "lat": 40.8299,
+      "lng": -73.87021
+    },
+    {
+      "zip": "10473",
+      "boro": "Bronx",
+      "n": 34,
+      "bag": {
+        "yes": 26,
+        "unknown": 5,
+        "maybe": 3
+      },
+      "lat": 40.82153,
+      "lng": -73.86075
+    },
+    {
+      "zip": "10474",
+      "boro": "Bronx",
+      "n": 35,
+      "bag": {
+        "yes": 28,
+        "unknown": 2,
+        "no": 1,
+        "maybe": 4
+      },
+      "lat": 40.81373,
+      "lng": -73.88621
+    },
+    {
+      "zip": "10475",
+      "boro": "Bronx",
+      "n": 70,
+      "bag": {
+        "yes": 54,
+        "maybe": 13,
+        "unknown": 3
+      },
+      "lat": 40.87131,
+      "lng": -73.8286
+    },
+    {
+      "zip": "11001",
+      "boro": "Queens",
+      "n": 2,
+      "bag": {
+        "yes": 2
+      },
+      "lat": 40.72765,
+      "lng": -73.71009
+    },
+    {
+      "zip": "11003",
+      "boro": "0",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11004",
+      "boro": "Queens",
+      "n": 40,
+      "bag": {
+        "yes": 24,
+        "maybe": 8,
+        "unknown": 8
+      },
+      "lat": 40.74031,
+      "lng": -73.7103
+    },
+    {
+      "zip": "11005",
+      "boro": "Queens",
+      "n": 2,
+      "bag": {
+        "yes": 2
+      },
+      "lat": 40.75928,
+      "lng": -73.71349
+    },
+    {
+      "zip": "11021",
+      "boro": "0",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11040",
+      "boro": "Queens",
+      "n": 20,
+      "bag": {
+        "yes": 16,
+        "unknown": 3,
+        "maybe": 1
+      },
+      "lat": 40.7515,
+      "lng": -73.7035
+    },
+    {
+      "zip": "11101",
+      "boro": "Queens",
+      "n": 423,
+      "bag": {
+        "yes": 305,
+        "unknown": 55,
+        "maybe": 62,
+        "no": 1
+      },
+      "lat": 40.74846,
+      "lng": -73.94002
+    },
+    {
+      "zip": "11102",
+      "boro": "Queens",
+      "n": 102,
+      "bag": {
+        "yes": 71,
+        "maybe": 18,
+        "unknown": 13
+      },
+      "lat": 40.76963,
+      "lng": -73.92332
+    },
+    {
+      "zip": "11103",
+      "boro": "Queens",
+      "n": 285,
+      "bag": {
+        "maybe": 47,
+        "yes": 194,
+        "unknown": 42,
+        "no": 2
+      },
+      "lat": 40.76353,
+      "lng": -73.91502
+    },
+    {
+      "zip": "11104",
+      "boro": "Queens",
+      "n": 143,
+      "bag": {
+        "unknown": 26,
+        "maybe": 24,
+        "yes": 93
+      },
+      "lat": 40.74379,
+      "lng": -73.92178
+    },
+    {
+      "zip": "11105",
+      "boro": "Queens",
+      "n": 164,
+      "bag": {
+        "unknown": 16,
+        "yes": 112,
+        "maybe": 36
+      },
+      "lat": 40.77485,
+      "lng": -73.90992
+    },
+    {
+      "zip": "11106",
+      "boro": "Queens",
+      "n": 205,
+      "bag": {
+        "yes": 157,
+        "unknown": 23,
+        "maybe": 25
+      },
+      "lat": 40.76037,
+      "lng": -73.92734
+    },
+    {
+      "zip": "11109",
+      "boro": "Queens",
+      "n": 8,
+      "bag": {
+        "yes": 7,
+        "maybe": 1
+      },
+      "lat": 40.74655,
+      "lng": -73.95676
+    },
+    {
+      "zip": "11201",
+      "boro": "Brooklyn",
+      "n": 518,
+      "bag": {
+        "yes": 357,
+        "unknown": 53,
+        "maybe": 107,
+        "no": 1
+      },
+      "lat": 40.69357,
+      "lng": -73.98963
+    },
+    {
+      "zip": "11203",
+      "boro": "Brooklyn",
+      "n": 134,
+      "bag": {
+        "yes": 103,
+        "unknown": 19,
+        "maybe": 12
+      },
+      "lat": 40.65097,
+      "lng": -73.93358
+    },
+    {
+      "zip": "11204",
+      "boro": "Brooklyn",
+      "n": 142,
+      "bag": {
+        "maybe": 28,
+        "yes": 97,
+        "unknown": 17
+      },
+      "lat": 40.61752,
+      "lng": -73.98668
+    },
+    {
+      "zip": "11205",
+      "boro": "Brooklyn",
+      "n": 165,
+      "bag": {
+        "yes": 126,
+        "maybe": 22,
+        "unknown": 17
+      },
+      "lat": 40.69299,
+      "lng": -73.96606
+    },
+    {
+      "zip": "11206",
+      "boro": "Brooklyn",
+      "n": 217,
+      "bag": {
+        "maybe": 38,
+        "yes": 157,
+        "unknown": 21,
+        "no": 1
+      },
+      "lat": 40.70299,
+      "lng": -73.94034
+    },
+    {
+      "zip": "11207",
+      "boro": "Brooklyn",
+      "n": 159,
+      "bag": {
+        "yes": 126,
+        "maybe": 8,
+        "unknown": 23,
+        "no": 2
+      },
+      "lat": 40.6713,
+      "lng": -73.89551
+    },
+    {
+      "zip": "11208",
+      "boro": "Brooklyn",
+      "n": 128,
+      "bag": {
+        "yes": 93,
+        "unknown": 23,
+        "maybe": 12
+      },
+      "lat": 40.67864,
+      "lng": -73.87272
+    },
+    {
+      "zip": "11209",
+      "boro": "Brooklyn",
+      "n": 304,
+      "bag": {
+        "yes": 202,
+        "unknown": 43,
+        "maybe": 59
+      },
+      "lat": 40.62575,
+      "lng": -74.02787
+    },
+    {
+      "zip": "11210",
+      "boro": "Brooklyn",
+      "n": 90,
+      "bag": {
+        "unknown": 13,
+        "yes": 60,
+        "maybe": 17
+      },
+      "lat": 40.63155,
+      "lng": -73.94706
+    },
+    {
+      "zip": "11211",
+      "boro": "Brooklyn",
+      "n": 502,
+      "bag": {
+        "yes": 345,
+        "maybe": 69,
+        "unknown": 87,
+        "no": 1
+      },
+      "lat": 40.71348,
+      "lng": -73.95218
+    },
+    {
+      "zip": "11212",
+      "boro": "Brooklyn",
+      "n": 117,
+      "bag": {
+        "yes": 97,
+        "unknown": 15,
+        "maybe": 5
+      },
+      "lat": 40.66406,
+      "lng": -73.91522
+    },
+    {
+      "zip": "11213",
+      "boro": "Brooklyn",
+      "n": 115,
+      "bag": {
+        "yes": 82,
+        "unknown": 22,
+        "maybe": 11
+      },
+      "lat": 40.67015,
+      "lng": -73.93488
+    },
+    {
+      "zip": "11214",
+      "boro": "Brooklyn",
+      "n": 249,
+      "bag": {
+        "yes": 164,
+        "no": 1,
+        "unknown": 26,
+        "maybe": 58
+      },
+      "lat": 40.60355,
+      "lng": -73.99802
+    },
+    {
+      "zip": "11215",
+      "boro": "Brooklyn",
+      "n": 387,
+      "bag": {
+        "yes": 268,
+        "unknown": 40,
+        "maybe": 79
+      },
+      "lat": 40.6683,
+      "lng": -73.98465
+    },
+    {
+      "zip": "11216",
+      "boro": "Brooklyn",
+      "n": 237,
+      "bag": {
+        "unknown": 35,
+        "yes": 158,
+        "maybe": 42,
+        "no": 2
+      },
+      "lat": 40.68061,
+      "lng": -73.94903
+    },
+    {
+      "zip": "11217",
+      "boro": "Brooklyn",
+      "n": 329,
+      "bag": {
+        "yes": 242,
+        "unknown": 37,
+        "maybe": 47,
+        "no": 3
+      },
+      "lat": 40.68259,
+      "lng": -73.97782
+    },
+    {
+      "zip": "11218",
+      "boro": "Brooklyn",
+      "n": 162,
+      "bag": {
+        "unknown": 29,
+        "yes": 117,
+        "maybe": 16
+      },
+      "lat": 40.64243,
+      "lng": -73.97525
+    },
+    {
+      "zip": "11219",
+      "boro": "Brooklyn",
+      "n": 130,
+      "bag": {
+        "maybe": 20,
+        "yes": 91,
+        "unknown": 19
+      },
+      "lat": 40.6322,
+      "lng": -73.99978
+    },
+    {
+      "zip": "11220",
+      "boro": "Brooklyn",
+      "n": 448,
+      "bag": {
+        "unknown": 51,
+        "yes": 316,
+        "maybe": 79,
+        "no": 2
+      },
+      "lat": 40.64006,
+      "lng": -74.0112
+    },
+    {
+      "zip": "11221",
+      "boro": "Brooklyn",
+      "n": 174,
+      "bag": {
+        "unknown": 21,
+        "yes": 128,
+        "maybe": 24,
+        "no": 1
+      },
+      "lat": 40.69181,
+      "lng": -73.92893
+    },
+    {
+      "zip": "11222",
+      "boro": "Brooklyn",
+      "n": 318,
+      "bag": {
+        "unknown": 43,
+        "yes": 211,
+        "no": 2,
+        "maybe": 62
+      },
+      "lat": 40.72777,
+      "lng": -73.95231
+    },
+    {
+      "zip": "11223",
+      "boro": "Brooklyn",
+      "n": 201,
+      "bag": {
+        "yes": 156,
+        "maybe": 25,
+        "unknown": 19,
+        "no": 1
+      },
+      "lat": 40.60024,
+      "lng": -73.9721
+    },
+    {
+      "zip": "11224",
+      "boro": "Brooklyn",
+      "n": 123,
+      "bag": {
+        "yes": 76,
+        "unknown": 32,
+        "no": 3,
+        "maybe": 12
+      },
+      "lat": 40.57561,
+      "lng": -73.98194
+    },
+    {
+      "zip": "11225",
+      "boro": "Brooklyn",
+      "n": 165,
+      "bag": {
+        "unknown": 14,
+        "yes": 122,
+        "maybe": 29
+      },
+      "lat": 40.66241,
+      "lng": -73.95532
+    },
+    {
+      "zip": "11226",
+      "boro": "Brooklyn",
+      "n": 253,
+      "bag": {
+        "yes": 187,
+        "unknown": 36,
+        "maybe": 30
+      },
+      "lat": 40.64774,
+      "lng": -73.95619
+    },
+    {
+      "zip": "11228",
+      "boro": "Brooklyn",
+      "n": 69,
+      "bag": {
+        "yes": 52,
+        "unknown": 8,
+        "maybe": 9
+      },
+      "lat": 40.6196,
+      "lng": -74.00908
+    },
+    {
+      "zip": "11229",
+      "boro": "Brooklyn",
+      "n": 150,
+      "bag": {
+        "yes": 113,
+        "unknown": 9,
+        "maybe": 28
+      },
+      "lat": 40.60181,
+      "lng": -73.95031
+    },
+    {
+      "zip": "11230",
+      "boro": "Brooklyn",
+      "n": 147,
+      "bag": {
+        "yes": 104,
+        "unknown": 23,
+        "maybe": 20
+      },
+      "lat": 40.62241,
+      "lng": -73.96534
+    },
+    {
+      "zip": "11231",
+      "boro": "Brooklyn",
+      "n": 197,
+      "bag": {
+        "unknown": 33,
+        "maybe": 34,
+        "yes": 130
+      },
+      "lat": 40.68025,
+      "lng": -74.0006
+    },
+    {
+      "zip": "11232",
+      "boro": "Brooklyn",
+      "n": 159,
+      "bag": {
+        "yes": 113,
+        "unknown": 25,
+        "maybe": 21
+      },
+      "lat": 40.65376,
+      "lng": -74.0037
+    },
+    {
+      "zip": "11233",
+      "boro": "Brooklyn",
+      "n": 101,
+      "bag": {
+        "yes": 73,
+        "maybe": 10,
+        "unknown": 17,
+        "no": 1
+      },
+      "lat": 40.68052,
+      "lng": -73.92248
+    },
+    {
+      "zip": "11234",
+      "boro": "Brooklyn",
+      "n": 173,
+      "bag": {
+        "yes": 120,
+        "maybe": 36,
+        "unknown": 16,
+        "no": 1
+      },
+      "lat": 40.61867,
+      "lng": -73.9238
+    },
+    {
+      "zip": "11235",
+      "boro": "Brooklyn",
+      "n": 199,
+      "bag": {
+        "unknown": 25,
+        "yes": 142,
+        "maybe": 31,
+        "no": 1
+      },
+      "lat": 40.58367,
+      "lng": -73.9544
+    },
+    {
+      "zip": "11236",
+      "boro": "Brooklyn",
+      "n": 117,
+      "bag": {
+        "maybe": 14,
+        "yes": 89,
+        "unknown": 14
+      },
+      "lat": 40.64012,
+      "lng": -73.90587
+    },
+    {
+      "zip": "11237",
+      "boro": "Brooklyn",
+      "n": 330,
+      "bag": {
+        "yes": 217,
+        "unknown": 69,
+        "maybe": 43,
+        "no": 1
+      },
+      "lat": 40.70314,
+      "lng": -73.921
+    },
+    {
+      "zip": "11238",
+      "boro": "Brooklyn",
+      "n": 275,
+      "bag": {
+        "unknown": 31,
+        "yes": 197,
+        "maybe": 45,
+        "no": 2
+      },
+      "lat": 40.67906,
+      "lng": -73.96319
+    },
+    {
+      "zip": "11239",
+      "boro": "Brooklyn",
+      "n": 25,
+      "bag": {
+        "yes": 19,
+        "maybe": 3,
+        "unknown": 3
+      },
+      "lat": 40.65219,
+      "lng": -73.87426
+    },
+    {
+      "zip": "11241",
+      "boro": "Brooklyn",
+      "n": 1,
+      "bag": {
+        "maybe": 1
+      },
+      "lat": 40.69344,
+      "lng": -73.99058
+    },
+    {
+      "zip": "11249",
+      "boro": "Brooklyn",
+      "n": 244,
+      "bag": {
+        "yes": 154,
+        "maybe": 53,
+        "unknown": 37
+      },
+      "lat": 40.71668,
+      "lng": -73.96147
+    },
+    {
+      "zip": "11354",
+      "boro": "Queens",
+      "n": 596,
+      "bag": {
+        "yes": 388,
+        "unknown": 103,
+        "no": 7,
+        "maybe": 98
+      },
+      "lat": 40.76183,
+      "lng": -73.82838
+    },
+    {
+      "zip": "11355",
+      "boro": "Queens",
+      "n": 229,
+      "bag": {
+        "unknown": 28,
+        "yes": 168,
+        "maybe": 32,
+        "no": 1
+      },
+      "lat": 40.75409,
+      "lng": -73.82449
+    },
+    {
+      "zip": "11356",
+      "boro": "Queens",
+      "n": 69,
+      "bag": {
+        "yes": 47,
+        "unknown": 11,
+        "maybe": 11
+      },
+      "lat": 40.7834,
+      "lng": -73.84288
+    },
+    {
+      "zip": "11357",
+      "boro": "Queens",
+      "n": 70,
+      "bag": {
+        "maybe": 11,
+        "yes": 53,
+        "unknown": 6
+      },
+      "lat": 40.78656,
+      "lng": -73.80961
+    },
+    {
+      "zip": "11358",
+      "boro": "Queens",
+      "n": 174,
+      "bag": {
+        "yes": 125,
+        "unknown": 17,
+        "maybe": 32
+      },
+      "lat": 40.76199,
+      "lng": -73.79838
+    },
+    {
+      "zip": "11360",
+      "boro": "Queens",
+      "n": 28,
+      "bag": {
+        "yes": 19,
+        "maybe": 7,
+        "unknown": 2
+      },
+      "lat": 40.78069,
+      "lng": -73.77869
+    },
+    {
+      "zip": "11361",
+      "boro": "Queens",
+      "n": 159,
+      "bag": {
+        "yes": 116,
+        "unknown": 11,
+        "maybe": 31,
+        "no": 1
+      },
+      "lat": 40.76217,
+      "lng": -73.77139
+    },
+    {
+      "zip": "11362",
+      "boro": "Queens",
+      "n": 62,
+      "bag": {
+        "yes": 45,
+        "maybe": 11,
+        "unknown": 6
+      },
+      "lat": 40.76727,
+      "lng": -73.73442
+    },
+    {
+      "zip": "11363",
+      "boro": "Queens",
+      "n": 15,
+      "bag": {
+        "yes": 10,
+        "maybe": 1,
+        "unknown": 4
+      },
+      "lat": 40.76742,
+      "lng": -73.74654
+    },
+    {
+      "zip": "11364",
+      "boro": "Queens",
+      "n": 65,
+      "bag": {
+        "maybe": 11,
+        "yes": 45,
+        "unknown": 9
+      },
+      "lat": 40.74634,
+      "lng": -73.75764
+    },
+    {
+      "zip": "11365",
+      "boro": "Queens",
+      "n": 61,
+      "bag": {
+        "yes": 42,
+        "unknown": 6,
+        "maybe": 13
+      },
+      "lat": 40.73747,
+      "lng": -73.79269
+    },
+    {
+      "zip": "11366",
+      "boro": "Queens",
+      "n": 56,
+      "bag": {
+        "yes": 40,
+        "unknown": 5,
+        "maybe": 11
+      },
+      "lat": 40.72581,
+      "lng": -73.79171
+    },
+    {
+      "zip": "11367",
+      "boro": "Queens",
+      "n": 50,
+      "bag": {
+        "yes": 40,
+        "maybe": 2,
+        "unknown": 8
+      },
+      "lat": 40.72702,
+      "lng": -73.81851
+    },
+    {
+      "zip": "11368",
+      "boro": "Queens",
+      "n": 306,
+      "bag": {
+        "unknown": 35,
+        "yes": 226,
+        "maybe": 45
+      },
+      "lat": 40.74973,
+      "lng": -73.86269
+    },
+    {
+      "zip": "11369",
+      "boro": "Queens",
+      "n": 90,
+      "bag": {
+        "yes": 63,
+        "maybe": 10,
+        "unknown": 16,
+        "no": 1
+      },
+      "lat": 40.76383,
+      "lng": -73.87545
+    },
+    {
+      "zip": "11370",
+      "boro": "Queens",
+      "n": 22,
+      "bag": {
+        "yes": 16,
+        "unknown": 3,
+        "maybe": 3
+      },
+      "lat": 40.76328,
+      "lng": -73.89062
+    },
+    {
+      "zip": "11371",
+      "boro": "Queens",
+      "n": 38,
+      "bag": {
+        "unknown": 15,
+        "yes": 16,
+        "no": 1,
+        "maybe": 6
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11372",
+      "boro": "Queens",
+      "n": 388,
+      "bag": {
+        "yes": 308,
+        "no": 3,
+        "unknown": 25,
+        "maybe": 52
+      },
+      "lat": 40.75032,
+      "lng": -73.88397
+    },
+    {
+      "zip": "11373",
+      "boro": "Queens",
+      "n": 267,
+      "bag": {
+        "maybe": 56,
+        "yes": 196,
+        "unknown": 14,
+        "no": 1
+      },
+      "lat": 40.7402,
+      "lng": -73.87861
+    },
+    {
+      "zip": "11374",
+      "boro": "Queens",
+      "n": 94,
+      "bag": {
+        "yes": 74,
+        "unknown": 7,
+        "maybe": 13
+      },
+      "lat": 40.72835,
+      "lng": -73.86307
+    },
+    {
+      "zip": "11375",
+      "boro": "Queens",
+      "n": 236,
+      "bag": {
+        "yes": 173,
+        "maybe": 38,
+        "unknown": 24,
+        "no": 1
+      },
+      "lat": 40.71978,
+      "lng": -73.8463
+    },
+    {
+      "zip": "11377",
+      "boro": "Queens",
+      "n": 224,
+      "bag": {
+        "yes": 186,
+        "no": 1,
+        "unknown": 17,
+        "maybe": 20
+      },
+      "lat": 40.74613,
+      "lng": -73.90553
+    },
+    {
+      "zip": "11378",
+      "boro": "Queens",
+      "n": 89,
+      "bag": {
+        "yes": 70,
+        "unknown": 8,
+        "maybe": 11
+      },
+      "lat": 40.72394,
+      "lng": -73.90325
+    },
+    {
+      "zip": "11379",
+      "boro": "Queens",
+      "n": 46,
+      "bag": {
+        "yes": 33,
+        "unknown": 6,
+        "maybe": 7
+      },
+      "lat": 40.71657,
+      "lng": -73.88201
+    },
+    {
+      "zip": "11385",
+      "boro": "Queens",
+      "n": 357,
+      "bag": {
+        "unknown": 37,
+        "yes": 254,
+        "maybe": 66
+      },
+      "lat": 40.70387,
+      "lng": -73.89848
+    },
+    {
+      "zip": "11411",
+      "boro": "Queens",
+      "n": 24,
+      "bag": {
+        "yes": 16,
+        "maybe": 4,
+        "unknown": 4
+      },
+      "lat": 40.69431,
+      "lng": -73.73762
+    },
+    {
+      "zip": "11412",
+      "boro": "Queens",
+      "n": 53,
+      "bag": {
+        "yes": 41,
+        "unknown": 9,
+        "maybe": 3
+      },
+      "lat": 40.6975,
+      "lng": -73.75801
+    },
+    {
+      "zip": "11413",
+      "boro": "Queens",
+      "n": 50,
+      "bag": {
+        "yes": 41,
+        "maybe": 5,
+        "unknown": 4
+      },
+      "lat": 40.67555,
+      "lng": -73.74798
+    },
+    {
+      "zip": "11414",
+      "boro": "Queens",
+      "n": 64,
+      "bag": {
+        "unknown": 8,
+        "yes": 39,
+        "maybe": 17
+      },
+      "lat": 40.66014,
+      "lng": -73.84211
+    },
+    {
+      "zip": "11415",
+      "boro": "Queens",
+      "n": 38,
+      "bag": {
+        "yes": 27,
+        "maybe": 8,
+        "unknown": 3
+      },
+      "lat": 40.70927,
+      "lng": -73.82987
+    },
+    {
+      "zip": "11416",
+      "boro": "Queens",
+      "n": 51,
+      "bag": {
+        "yes": 40,
+        "maybe": 7,
+        "unknown": 4
+      },
+      "lat": 40.68485,
+      "lng": -73.84788
+    },
+    {
+      "zip": "11417",
+      "boro": "Queens",
+      "n": 79,
+      "bag": {
+        "unknown": 11,
+        "yes": 60,
+        "maybe": 8
+      },
+      "lat": 40.67822,
+      "lng": -73.84185
+    },
+    {
+      "zip": "11418",
+      "boro": "Queens",
+      "n": 90,
+      "bag": {
+        "unknown": 7,
+        "yes": 71,
+        "maybe": 11,
+        "no": 1
+      },
+      "lat": 40.69936,
+      "lng": -73.83185
+    },
+    {
+      "zip": "11419",
+      "boro": "Queens",
+      "n": 115,
+      "bag": {
+        "yes": 95,
+        "unknown": 12,
+        "maybe": 8
+      },
+      "lat": 40.68878,
+      "lng": -73.82375
+    },
+    {
+      "zip": "11420",
+      "boro": "Queens",
+      "n": 90,
+      "bag": {
+        "yes": 74,
+        "no": 5,
+        "maybe": 6,
+        "unknown": 5
+      },
+      "lat": 40.67629,
+      "lng": -73.81893
+    },
+    {
+      "zip": "11421",
+      "boro": "Queens",
+      "n": 83,
+      "bag": {
+        "yes": 66,
+        "unknown": 10,
+        "maybe": 7
+      },
+      "lat": 40.69217,
+      "lng": -73.85731
+    },
+    {
+      "zip": "11422",
+      "boro": "Queens",
+      "n": 44,
+      "bag": {
+        "yes": 37,
+        "unknown": 4,
+        "maybe": 3
+      },
+      "lat": 40.66395,
+      "lng": -73.73562
+    },
+    {
+      "zip": "11423",
+      "boro": "Queens",
+      "n": 44,
+      "bag": {
+        "yes": 32,
+        "unknown": 6,
+        "maybe": 5,
+        "no": 1
+      },
+      "lat": 40.71406,
+      "lng": -73.76661
+    },
+    {
+      "zip": "11426",
+      "boro": "Queens",
+      "n": 37,
+      "bag": {
+        "yes": 31,
+        "maybe": 4,
+        "unknown": 2
+      },
+      "lat": 40.73055,
+      "lng": -73.72062
+    },
+    {
+      "zip": "11427",
+      "boro": "Queens",
+      "n": 14,
+      "bag": {
+        "yes": 12,
+        "maybe": 1,
+        "unknown": 1
+      },
+      "lat": 40.72815,
+      "lng": -73.74644
+    },
+    {
+      "zip": "11428",
+      "boro": "Queens",
+      "n": 38,
+      "bag": {
+        "yes": 31,
+        "unknown": 4,
+        "maybe": 3
+      },
+      "lat": 40.71847,
+      "lng": -73.74081
+    },
+    {
+      "zip": "11429",
+      "boro": "Queens",
+      "n": 29,
+      "bag": {
+        "yes": 23,
+        "maybe": 4,
+        "unknown": 2
+      },
+      "lat": 40.71139,
+      "lng": -73.73916
+    },
+    {
+      "zip": "11430",
+      "boro": "Queens",
+      "n": 147,
+      "bag": {
+        "yes": 87,
+        "unknown": 45,
+        "maybe": 15
+      },
+      "lat": 40.649,
+      "lng": -73.78836
+    },
+    {
+      "zip": "11431",
+      "boro": "Queens",
+      "n": 1,
+      "bag": {
+        "yes": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11432",
+      "boro": "Queens",
+      "n": 201,
+      "bag": {
+        "unknown": 27,
+        "yes": 154,
+        "maybe": 19,
+        "no": 1
+      },
+      "lat": 40.70993,
+      "lng": -73.79436
+    },
+    {
+      "zip": "11433",
+      "boro": "Queens",
+      "n": 35,
+      "bag": {
+        "yes": 23,
+        "maybe": 4,
+        "unknown": 7,
+        "no": 1
+      },
+      "lat": 40.70065,
+      "lng": -73.78998
+    },
+    {
+      "zip": "11434",
+      "boro": "Queens",
+      "n": 100,
+      "bag": {
+        "yes": 76,
+        "maybe": 11,
+        "unknown": 13
+      },
+      "lat": 40.67735,
+      "lng": -73.77399
+    },
+    {
+      "zip": "11435",
+      "boro": "Queens",
+      "n": 122,
+      "bag": {
+        "yes": 93,
+        "unknown": 11,
+        "no": 4,
+        "maybe": 14
+      },
+      "lat": 40.70122,
+      "lng": -73.80879
+    },
+    {
+      "zip": "11436",
+      "boro": "Queens",
+      "n": 31,
+      "bag": {
+        "yes": 22,
+        "unknown": 6,
+        "maybe": 3
+      },
+      "lat": 40.67339,
+      "lng": -73.79468
+    },
+    {
+      "zip": "11520",
+      "boro": "0",
+      "n": 1,
+      "bag": {
+        "unknown": 1
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11542",
+      "boro": "0",
+      "n": 2,
+      "bag": {
+        "yes": 2
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11550",
+      "boro": "0",
+      "n": 2,
+      "bag": {
+        "unknown": 2
+      },
+      "lat": null,
+      "lng": null
+    },
+    {
+      "zip": "11691",
+      "boro": "Queens",
+      "n": 49,
+      "bag": {
+        "yes": 41,
+        "maybe": 3,
+        "unknown": 5
+      },
+      "lat": 40.60183,
+      "lng": -73.75494
+    },
+    {
+      "zip": "11692",
+      "boro": "Queens",
+      "n": 17,
+      "bag": {
+        "unknown": 3,
+        "yes": 11,
+        "maybe": 3
+      },
+      "lat": 40.59116,
+      "lng": -73.79697
+    },
+    {
+      "zip": "11693",
+      "boro": "Queens",
+      "n": 39,
+      "bag": {
+        "yes": 27,
+        "maybe": 4,
+        "unknown": 6,
+        "no": 2
+      },
+      "lat": 40.58902,
+      "lng": -73.81562
+    },
+    {
+      "zip": "11694",
+      "boro": "Queens",
+      "n": 49,
+      "bag": {
+        "unknown": 11,
+        "yes": 31,
+        "maybe": 7
+      },
+      "lat": 40.58039,
+      "lng": -73.83798
+    },
+    {
+      "zip": "11697",
+      "boro": "Queens",
+      "n": 6,
+      "bag": {
+        "yes": 4,
+        "unknown": 2
+      },
+      "lat": 40.56211,
+      "lng": -73.91049
+    }
+  ]
+}
