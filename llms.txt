@@ -1,0 +1,16 @@
+# chip-nyc
+
+Plant list for Chip (https://chip.family). Licensed NYC kitchens from DOHMH inspections. Not a live menu. Nothing is Open.
+
+## Fetch
+
+- One ZIP: https://raw.githubusercontent.com/4d-Studio/chip-nyc/main/zips/11372.json
+- City: https://raw.githubusercontent.com/4d-Studio/chip-nyc/main/nyc.json
+- ZIP index: https://raw.githubusercontent.com/4d-Studio/chip-nyc/main/index.json
+- Browse: https://4d-studio.github.io/chip-nyc/
+
+Each kitchen: id, name, street, zip, boro, cuisine, bag, lat, lng.
+
+bag=yes can plate. maybe = coffee/donuts/bakery. Do not scrape DoorDash, Uber, Grubhub, or Yelp.
+
+Source: NYC DOHMH dataset 43nn-pn8j.

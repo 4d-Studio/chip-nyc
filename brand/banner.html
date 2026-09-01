@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@700;800&family=Plus+Jakarta+Sans:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        margin: 0;
+        width: 1280px;
+        height: 640px;
+        overflow: hidden;
+        background: #e85a22;
+      }
+      .card {
+        width: 1280px;
+        height: 640px;
+        background: #e85a22;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        gap: 56px;
+        padding: 0 88px;
+        box-sizing: border-box;
+        font-family: Outfit, sans-serif;
+      }
+      .face {
+        width: 280px;
+        height: 280px;
+        border-radius: 48px;
+        object-fit: cover;
+        flex-shrink: 0;
+        box-shadow: 0 18px 40px rgb(0 0 0 / 0.18);
+      }
+      .copy {
+        min-width: 0;
+      }
+      .overline {
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        opacity: 0.88;
+        margin: 0 0 14px;
+      }
+      h1 {
+        font-size: 112px;
+        font-weight: 800;
+        letter-spacing: -0.04em;
+        line-height: 0.92;
+        margin: 0;
+        text-wrap: balance;
+      }
+      p {
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-size: 32px;
+        font-weight: 600;
+        letter-spacing: -0.02em;
+        line-height: 1.2;
+        margin: 22px 0 0;
+        opacity: 0.94;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <img class="face" src="./icon.jpg" alt="" />
+      <div class="copy">
+        <p class="overline">NYC plant list</p>
+        <h1>chip-nyc</h1>
+        <p>30,901 kitchens. Street and pin.</p>
+      </div>
+    </div>
+  </body>
+</html>

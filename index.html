@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>chip-nyc — NYC plant list</title>
+    <meta
+      name="description"
+      content="30,901 licensed NYC kitchens. Street and pin. Not a live Chip menu."
+    />
+    <meta property="og:title" content="chip-nyc" />
+    <meta property="og:description" content="30,901 NYC kitchens. Street and pin." />
+    <meta property="og:image" content="brand/banner.jpg" />
+    <link rel="icon" href="brand/icon.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@700;800&family=Plus+Jakarta+Sans:wght@500;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --chip: #e85a22;
+        --chip-fg: #fff;
+        --ink: #171717;
+        --muted: #6b6560;
+        --line: #eceae7;
+        --surface: #f4f4f2;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        background: #fff;
+        color: var(--ink);
+        font-family: "Plus Jakarta Sans", sans-serif;
+      }
+      header {
+        background: var(--chip);
+        color: var(--chip-fg);
+        padding: 28px 20px 32px;
+      }
+      header .inner {
+        max-width: 720px;
+        margin: 0 auto;
+        display: flex;
+        gap: 16px;
+        align-items: center;
+      }
+      header img {
+        width: 64px;
+        height: 64px;
+        border-radius: 16px;
+      }
+      header p.over {
+        margin: 0 0 4px;
+        font-size: 11px;
+        font-weight: 800;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        opacity: 0.88;
+      }
+      header h1 {
+        font-family: Outfit, sans-serif;
+        font-size: 2rem;
+        font-weight: 800;
+        letter-spacing: -0.04em;
+        line-height: 1;
+        margin: 0;
+      }
+      header .tag {
+        margin: 6px 0 0;
+        font-weight: 600;
+        opacity: 0.92;
+      }
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 20px 20px 80px;
+      }
+      .note {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-weight: 600;
+        font-size: 0.95rem;
+      }
+      .note a {
+        color: var(--chip);
+      }
+      form {
+        display: grid;
+        gap: 10px;
+      }
+      label {
+        font-size: 13px;
+        font-weight: 800;
+      }
+      input {
+        width: 100%;
+        height: 44px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 0 16px;
+        font: inherit;
+        font-weight: 600;
+        background: var(--surface);
+      }
+      input:focus {
+        outline: 2px solid var(--chip);
+        outline-offset: 2px;
+        background: #fff;
+      }
+      .zips {
+        display: flex;
+        gap: 8px;
+        overflow-x: auto;
+        padding: 4px 0 8px;
+        -webkit-overflow-scrolling: touch;
+      }
+      .zips button {
+        flex-shrink: 0;
+        height: 44px;
+        border: 0;
+        border-radius: 999px;
+        padding: 0 16px;
+        font: inherit;
+        font-weight: 800;
+        background: var(--surface);
+        color: var(--ink);
+        cursor: pointer;
+      }
+      .zips button[aria-pressed="true"] {
+        background: #fff;
+        box-shadow: inset 0 0 0 2px var(--chip);
+      }
+      .meta {
+        margin: 16px 0 8px;
+        font-weight: 800;
+        font-size: 0.95rem;
+      }
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      li {
+        padding: 14px 0;
+        border-bottom: 1px solid var(--line);
+      }
+      li strong {
+        display: block;
+        font-size: 1rem;
+        letter-spacing: -0.02em;
+      }
+      li span {
+        color: var(--muted);
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+      .empty {
+        padding: 32px 0;
+        color: var(--muted);
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <img src="brand/icon.jpg" alt="Chip" />
+        <div>
+          <p class="over">NYC plant list</p>
+          <h1>chip-nyc</h1>
+          <p class="tag">30,901 kitchens. Street and pin.</p>
+        </div>
+      </div>
+    </header>
+    <main>
+      <p class="note">
+        Not a live menu. Nothing here is Open. Owner yes Opens on
+        <a href="https://chip.family">chip.family</a>.
+      </p>
+      <form id="go">
+        <label for="zip">ZIP</label>
+        <input id="zip" name="zip" inputmode="numeric" maxlength="5" placeholder="11372" value="11372" />
+        <label for="q">Search name or street</label>
+        <input id="q" name="q" placeholder="Pho, Roosevelt, pizza…" />
+      </form>
+      <div class="zips" id="hot"></div>
+      <p class="meta" id="meta">Pick a ZIP.</p>
+      <ul id="list"></ul>
+      <p class="empty" id="empty" hidden>Nothing matches that.</p>
+    </main>
+    <script>
+      const zipEl = document.getElementById("zip");
+      const qEl = document.getElementById("q");
+      const listEl = document.getElementById("list");
+      const metaEl = document.getElementById("meta");
+      const emptyEl = document.getElementById("empty");
+      const hotEl = document.getElementById("hot");
+      let rows = [];
+      let activeZip = "";
+
+      function paint() {
+        const q = qEl.value.trim().toLowerCase();
+        const shown = q
+          ? rows.filter((p) =>
+              `${p.name} ${p.street} ${p.cuisine} ${p.zip}`.toLowerCase().includes(q),
+            )
+          : rows;
+        metaEl.textContent = activeZip
+          ? `${shown.length} in ${activeZip}`
+          : "Pick a ZIP.";
+        listEl.replaceChildren(
+          ...shown.slice(0, 400).map((p) => {
+            const li = document.createElement("li");
+            const name = document.createElement("strong");
+            name.textContent = p.name;
+            const street = document.createElement("span");
+            street.textContent = `${p.street} · ${p.zip}`;
+            li.append(name, street);
+            return li;
+          }),
+        );
+        emptyEl.hidden = shown.length > 0 || !activeZip;
+      }
+
+      async function loadZip(zip) {
+        const z = String(zip || "").replace(/\D/g, "").slice(0, 5);
+        if (z.length !== 5) return;
+        activeZip = z;
+        zipEl.value = z;
+        for (const b of hotEl.querySelectorAll("button")) {
+          b.setAttribute("aria-pressed", b.dataset.zip === z ? "true" : "false");
+        }
+        metaEl.textContent = `Loading ${z}…`;
+        const res = await fetch(`zips/${z}.json`);
+        if (!res.ok) {
+          rows = [];
+          metaEl.textContent = `No cell ${z}.`;
+          paint();
+          return;
+        }
+        const data = await res.json();
+        rows = data.places || [];
+        paint();
+      }
+
+      zipEl.addEventListener("input", () => {
+        if (zipEl.value.replace(/\D/g, "").length === 5) loadZip(zipEl.value);
+      });
+      qEl.addEventListener("input", paint);
+      document.getElementById("go").addEventListener("submit", (e) => {
+        e.preventDefault();
+        loadZip(zipEl.value);
+      });
+
+      fetch("index.json")
+        .then((r) => r.json())
+        .then((idx) => {
+          const top = [...(idx.zips || [])].sort((a, b) => b.n - a.n).slice(0, 8);
+          for (const z of top) {
+            const b = document.createElement("button");
+            b.type = "button";
+            b.dataset.zip = z.zip;
+            b.textContent = `${z.zip} · ${z.n}`;
+            b.addEventListener("click", () => loadZip(z.zip));
+            hotEl.append(b);
+          }
+        });
+
+      const start = new URLSearchParams(location.search).get("zip") || "11372";
+      loadZip(start);
+    </script>
+  </body>
+</html>
